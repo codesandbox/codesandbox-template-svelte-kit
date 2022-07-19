@@ -2,7 +2,9 @@
 
 This is a [SvelteKit](https://kit.svelte.dev/) project bootstrapped using the [svelte](https://kit.svelte.dev/docs/introduction#getting-started) CLI.
 
-[Configuration](https://docs.codesandbox.io/our-products/codesandbox-projects/configuration-overview) has been added to optimize it for [CodeSandbox Projects](https://codesandbox.io/p/dashboard).
+[Configuration](https://codesandbox.io/docs/projects/learn/setting-up/tasks) has been added to optimize it for [CodeSandbox Projects](https://codesandbox.io/p/dashboard).
+
+[Open in CodeSandbox](https://codesandbox.io/p/github/codesandbox/codesandbox-template-svelte-kit/main)
 
 ## Resources
 
